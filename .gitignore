@@ -9,6 +9,8 @@ build/
 # Flutter related
 **/pubspec.lock
 
-
 # IDE related
 .idea/
+
+# FVM Version Cache
+.fvm/
